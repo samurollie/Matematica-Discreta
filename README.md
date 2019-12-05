@@ -1,1 +1,1 @@
-# Matematica-Discreta
+# Matematica Discreta
